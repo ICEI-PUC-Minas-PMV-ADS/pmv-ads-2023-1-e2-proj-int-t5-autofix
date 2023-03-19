@@ -7,20 +7,23 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo.
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| **Rosana**  |    |   |   
+| ------------------- | ------------------- |  ---------------  |
+| ![Rosana]|  **Idade:** 26 anos -- **Ocupação:** Professora  |  **Aplicativos:** Instagram, PowerPoint, Classroom| 
+**Motivações:** Casa Própria, Filhos, Pós-Graduação | **Frustrações:** Rotina, Exaustão, Problemas familiares |  **Hobbies/História:** Leitura, Trilhas, Natureza. |
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| **Paulo**  |    |   |   
+| ------------------- | ------------------- |  ---------------  |
+| ![Paulo]|  **Idade:** 60 anos -- **Ocupação:** Advogado  |  **Aplicativos:** LinkedIn, Facebook, WhatsApp
+| 
+**Motivações:** Família, Aposentadoria, Terreno próprio| **Frustrações:** Trânsito diário, Empresa, Saúde|  **Hobbies/História:** Pescaria, caminhada |
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| **Marcia**  |    |   |   
+| ------------------- | ------------------- |  ---------------  |
+| ![Marcia]|  **Idade:** 47 anos -- **Ocupação:** Antropóloga  |  **Aplicativos:** Facebook, WhatsApp, Aplicativo de jogos| 
+**Motivações:** Viajar, Alimentação, Netos| **Frustrações:** Relacionamento Familiar |  **Hobbies/História:** Fotografia, Natação |
 
 ## Histórias de Usuários
 
@@ -28,17 +31,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Marcia              | Visualizar oficinas mecânicas mais próximas    | o problema ser solucionado rapidamente |
+|Marcia              | Entrar em contato com diversas oficinas mecânicas   | poder comparar e escolher o melhor preço|
+|Paulo               | Um meio de pagamento facilitado    | mais agilidade  e segurança
+|Paulo               | Visualizar as avaliações de outros clientes | para ter uma maior confiabilidade no serviço
+|Rosana              | Um sistema de fácil entendimento | Situações de emergência
+|Rosana              | Saber horário de funcionamento | encontrar profissionais disponíveis
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -48,30 +48,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve ter página de cadastro de usuário | ALTA | 
+|RF-002| O sistema deve ter página de login | BAIXA |
+|RF-003| O sistema deve permitir escolher entre usuário ou prestador de serviços no momento do cadastro | MÉDIA |
+|RF-004| O sistema deve permitir prestador de serviços cadastrar informações da empresa (horário de funcionamento, endereço, telefone, e-mail, pagamentos aceitos...) | ALTA |
+|RF-005| O sistema deve permitir ao usuário avaliar o serviço | ALTA |
+|RF-006| O usuário deve ser permitido visualizar a localização da Oficina ou Mecânico mais próximo | ALTA |
+|RF-007| O sistema deve fornecer ao usuário o horário de funcionamento do estabelecimento | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ter senhas de acesso e identificação para diferentes tipos de usuários: administradores, prestadores de serviço e clientes | MÉDIA | 
+|RNF-002| Os dados pessoais devem ser armazenados sob a Lei Geral de Proteção de Dados Pessoais (LGPD) |  ALTA | 
+|RNF-003| O sistema deve funcionar nos principais navegadores, como Chrome, Firefox, Edge, Opera. |  BAIXA | 
+|RNF-004| O sistema deve gerenciar permissão de dados de login de acordo com tipo de perfil selecionado |  ALTA | 
+|RNF-005| O site deverá ser fácil de usar, eficiente e acessível |  MÉDIA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -81,23 +75,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-## Diagrama de Casos de Uso
-
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
