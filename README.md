@@ -1,19 +1,20 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`SEGUNDO SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Fernanda Marques Assis
+* Marcos Miguel Souza Avelino
+* Igor Henrique da Costa Morais
 * Nome completo do aluno 4
+*
 
 ## Orientador
 
