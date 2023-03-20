@@ -1,3 +1,5 @@
 # Apresentação da Solução
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+Apresentação do grupo Autofix disponível no link:
+https://drive.google.com/file/d/1hdS6Hi9-hutuqGTWDN2Li8jd2aZlgPxG/view?usp=share_link 
+
