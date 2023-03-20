@@ -75,3 +75,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+
+
+
+## Diagrama de Caso de Uso
+
+![UseCase Diagram - AutoFix](https://user-images.githubusercontent.com/56806907/226222340-c3a0b335-a6b8-41d6-9ecf-203ba700eeb0.png)
