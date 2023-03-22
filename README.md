@@ -13,8 +13,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Fernanda Marques Assis
 * Marcos Miguel Souza Avelino
 * Igor Henrique da Costa Morais
-* Lucas Bebiano Xavier
-*
+* Lucas Bebiano Xavier 
+* rafael dos santos rodrigues
 
 ## Orientador
 
