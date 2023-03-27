@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Marcos Miguel Souza Avelino
 * Igor Henrique da Costa Morais
 * Lucas Bebiano Xavier
-*
+* Rafael dos Santos Rodrigues
 
 ## Orientador
 
