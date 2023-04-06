@@ -26,18 +26,20 @@ A equipe está organizada da seguinte maneira:
 
 - Equipe de Desenvolvimento:
 
-        - 
+        - Marcos Miguel Souza Avelino
         - 
         - 
 
 - Equipe de Design:
-        - 
+
+        - Fernanda Marques Assis
+
 ### Processo
 
 Para organizar e atribuir tarefas do projeto, a equipe está usando um aplicativo de conceito estruturado com as seguintes listas:
 
 >  - 	To Do: Recebe as tarefas a serem trabalhadas e representa o Product Backlog.   
->  -  In Progress: Cards adicionados nesta coluna para quando a tarefa já estiver sendo feita.
+>  -    In Progress: Cards adicionados nesta coluna para quando a tarefa já estiver sendo feita.
 >  - 	Complete: Nesta lista são colocadas as tarefas que passaram por testes e controle de qualidade e estão prontas para serem entregues aos usuários.
 
 ### Quadro de Tarefas:
