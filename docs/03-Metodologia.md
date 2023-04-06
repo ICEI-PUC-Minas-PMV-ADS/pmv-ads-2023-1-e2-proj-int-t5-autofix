@@ -21,8 +21,9 @@ O projeto segue a seguinte convenção para o nome de branches:
 ### Divisão de Papéis
 
 A equipe está organizada da seguinte maneira:
-- Scrum Master - 
-- Product Owner – 
+
+        - Scrum Master - 
+        - Product Owner – 
 
 - Equipe de Desenvolvimento:
 
