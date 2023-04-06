@@ -22,7 +22,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 | **Marcia**  |    |   |   
 | ------------------- | ------------------- |  ---------------  |
-| ![Marcia](https://user-images.githubusercontent.com/65399666/230479504-70ac11d9-ce3a-4ba0-8899-3e86dceab857.png)|  **Idade:** 47 anos -- **Ocupação:** Antropóloga  |  **Aplicativos:** Facebook, WhatsApp, Aplicativo de jogos| 
+| ![Marcia](https://user-images.githubusercontent.com/65399666/230479504-70ac11d9-ce3a-4ba0-8899-3e86dceab857.png)|  **Idade:** 47 anos -- **Ocupação:** Antropóloga  |  **Aplicativos:** Facebook, WhatsApp, Aplicativo de jogos
+| 
 **Motivações:** Viajar, Alimentação, Netos| **Frustrações:** Relacionamento Familiar |  **Hobbies/História:** Fotografia, Natação |
 
 ## Histórias de Usuários
