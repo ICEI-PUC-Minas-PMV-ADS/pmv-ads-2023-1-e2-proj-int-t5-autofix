@@ -11,18 +11,19 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 | **Rosana**  |    |   |   
 | ------------------- | ------------------- |  ---------------  |
-| ![Rosana]|  **Idade:** 26 anos -- **Ocupação:** Professora  |  **Aplicativos:** Instagram, PowerPoint, Classroom| 
+| ![Rosana](https://user-images.githubusercontent.com/65399666/230479135-9d505d1c-7c4b-49a9-abe3-a88f0fc9f9ef.png)|  **Idade:** 26 anos -- **Ocupação:** Professora  |  **Aplicativos:** Instagram, PowerPoint, Classroom| 
 **Motivações:** Casa Própria, Filhos, Pós-Graduação | **Frustrações:** Rotina, Exaustão, Problemas familiares |  **Hobbies/História:** Leitura, Trilhas, Natureza. |
 
 | **Paulo**  |    |   |   
 | ------------------- | ------------------- |  ---------------  |
-| ![Paulo]|  **Idade:** 60 anos -- **Ocupação:** Advogado  |  **Aplicativos:** LinkedIn, Facebook, WhatsApp
+| ![Paulo](https://user-images.githubusercontent.com/65399666/230479331-70d02220-0be7-4c68-be91-9a30caf61ff2.png)|  **Idade:** 60 anos -- **Ocupação:** Advogado  |  **Aplicativos:** LinkedIn, Facebook, WhatsApp
 | 
 **Motivações:** Família, Aposentadoria, Terreno próprio| **Frustrações:** Trânsito diário, Empresa, Saúde|  **Hobbies/História:** Pescaria, caminhada |
 
 | **Marcia**  |    |   |   
 | ------------------- | ------------------- |  ---------------  |
-| ![Marcia]|  **Idade:** 47 anos -- **Ocupação:** Antropóloga  |  **Aplicativos:** Facebook, WhatsApp, Aplicativo de jogos| 
+| ![Marcia](https://user-images.githubusercontent.com/65399666/230479504-70ac11d9-ce3a-4ba0-8899-3e86dceab857.png)
+|  **Idade:** 47 anos -- **Ocupação:** Antropóloga  |  **Aplicativos:** Facebook, WhatsApp, Aplicativo de jogos| 
 **Motivações:** Viajar, Alimentação, Netos| **Frustrações:** Relacionamento Familiar |  **Hobbies/História:** Fotografia, Natação |
 
 ## Histórias de Usuários
