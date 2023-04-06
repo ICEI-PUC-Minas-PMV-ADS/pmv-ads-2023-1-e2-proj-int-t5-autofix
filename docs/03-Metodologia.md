@@ -58,5 +58,6 @@ As ferramentas empregadas no projeto são:
 |GitHub e Git | Usada para documentação e versionamento do código | 
 |Figma | Usada para o design e desenhos das telas (wireframing) | 
 |Teams | Ferramenta utilizada para comunicação entre o grupo | 
+|Visual Studio code | Ferramenta utilizada para desenvolvimento | 
 |Notion | Ferramenta utilizada para organização da metodologia ágil aplicada pela equipe (Scrum) | 
 
