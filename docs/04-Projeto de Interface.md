@@ -1,36 +1,41 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
-
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
-
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+![Diagrama de Fluxo](https://user-images.githubusercontent.com/65399666/230684809-d58d3fc7-6d0b-4ea9-8ed9-7de4d4d49c1b.png))
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+### Página incial
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+![Pagina Inicial](https://user-images.githubusercontent.com/65399666/230680368-36e8eaea-764a-431d-a54d-3581575f9c1c.png)
+
+### Tela Cadastro prestador
+
+![Cadastro Prestador](https://user-images.githubusercontent.com/65399666/230680667-7d920294-de8f-413c-a507-d2f5ece1c8ae.png)
+
+### Tela Cadastro motorista
+
+![Cadastro Motorista](https://user-images.githubusercontent.com/65399666/230680764-c353c636-42eb-4e1d-b7dd-4b476f953c16.png)
+
+### Tela Entrar Prestador
+![Entrar Prestador](https://user-images.githubusercontent.com/65399666/230680898-d8effa94-cdee-4ac0-b39c-c18eb3704387.png)
+
+### Tela Entrar Motorista
+![Entrar Motorista](https://user-images.githubusercontent.com/65399666/230681053-dc48e3f0-387e-42e8-a0f6-7d1ee3abed86.png)
+
+### Tela Listagem Oficinas
+![Listagem Oficinas](https://user-images.githubusercontent.com/65399666/230681372-2df51d10-cb5d-4026-93ae-923736d5702f.png)
+
+### Tela Visualização Oficina
+![Visualização Oficina](https://user-images.githubusercontent.com/65399666/230681344-19a8d9e8-82eb-4c40-903d-eb5c3e14cb57.png)
+
+
+### Tela Visualização Oficina Visão Prestador
+![Visualização Oficina](https://user-images.githubusercontent.com/65399666/230681312-86fc1a4d-4a07-4cfc-bb15-72a38035c77c.png)
+
+### Tela Editar dados Prestador
+![Visualização Oficina](https://user-images.githubusercontent.com/65399666/230681274-6c5a071e-1fe3-45ad-9b56-40bd64cef3ba.png)
