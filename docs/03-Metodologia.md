@@ -5,16 +5,28 @@
 
 A equipe utiliza as metodologias ágeis para o desenvolvimento do projeto, tendo escolhido o [Scrum](https://www.nimblework.com/pt-br/agile/metodologia-scrum/) como base para definição do processo de desenvolvimento.
 
+Relação de Ambientes de Trabalho
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
+
+|Ambiente| Plataforma | Link de Acesso |
+|-------|--------------|-----------|
+Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-autofix |
+Projeto de Interface e  Wireframes | Figma | https://www.figma.com/file/ncKLIStGmQ8UkKwvzo0Fpt/AutoFix?node-id=0%3A1&t=PRDnKjbXn0JixO8c-1 |
+Gerenciamento do Projeto | Notion | https://showy-ogre-794.notion.site/18d5606cecbe4fa0849732f7966b71a0?v=fe3f0746289b4ddb9a3c57a376786db8 |
+
+
+
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no [Git Flow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=O%20que%20%C3%A9%20o%20Gitflow,por%20Vincent%20Driessen%20no%20nvie.)
+
+![image](https://user-images.githubusercontent.com/65399666/230679241-9fb27bbe-ce16-4232-b4e5-b6f558e5e5af.png)
 
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
 - `staging`: versão de desenvolvimento do software
+
 
 ## Gerenciamento de Projeto
 
@@ -46,7 +58,7 @@ Para organizar e atribuir tarefas do projeto, a equipe está usando um aplicativ
 ### Quadro de Tarefas:
 O quadro de tarefas foi desenvolvido no conceito de ferramenta de gerenciamento de projetos Notion e é apresentado em seu estado atual:
 
-![image-notion](https://user-images.githubusercontent.com/65399666/230476796-a94cd89c-62b2-4f3b-b482-3d707425c0a4.png)
+![image notion](https://user-images.githubusercontent.com/65399666/230679683-1a624147-5821-4bcd-9aac-83fec725419b.png)
 
 ### Ferramentas
 
