@@ -5,7 +5,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-![Diagrama de Fluxo](https://user-images.githubusercontent.com/65399666/230684809-d58d3fc7-6d0b-4ea9-8ed9-7de4d4d49c1b.png))
+Visão do Motorista
+![Diagrama de Fluxo motoristas](https://user-images.githubusercontent.com/114712532/230799394-f80894e2-0382-4e25-8c6b-f58f637d1f1e.png)
+
+Visão do Prestador de Serviços
+![Fluxograma p serviços](https://user-images.githubusercontent.com/114712532/230799408-ef3b83aa-6486-400d-a972-3091ec6f6a0e.png)
 
 ## Wireframes
 
