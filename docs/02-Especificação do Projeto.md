@@ -67,6 +67,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| O sistema deve gerenciar permissão de dados de login de acordo com tipo de perfil selecionado |  ALTA | 
 |RNF-005| O site deverá ser fácil de usar, eficiente e acessível |  MÉDIA | 
 |RNF-006| O site usará a api do google para ser usada de referencia a localização |  MÉDIA | 
+|RNF-007| O usuário deve ser devidamente auxiliado no preenchimento dos campos obrigatórios em caso de cadastros inválidos | MÉDIA |
 
 
 ## Restrições
