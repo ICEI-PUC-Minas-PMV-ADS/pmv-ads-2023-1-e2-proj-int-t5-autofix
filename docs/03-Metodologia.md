@@ -35,7 +35,7 @@ O projeto segue a seguinte convenção para o nome de branches:
 A equipe está organizada da seguinte maneira:
 
         - Scrum Master - Lucas Bebiano Xavier
-        - Product Owner – 
+        - Product Owner – Fernanda Marques Assis
 
 - Equipe de Desenvolvimento:
 
