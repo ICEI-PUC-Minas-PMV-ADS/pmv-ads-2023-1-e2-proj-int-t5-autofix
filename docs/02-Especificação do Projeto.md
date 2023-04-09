@@ -81,5 +81,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 ## Diagrama de Caso de Uso
-
-![UseCase Diagram - AutoFix](https://user-images.githubusercontent.com/56806907/226222340-c3a0b335-a6b8-41d6-9ecf-203ba700eeb0.png)
+<!-- ![UseCase Diagram - AutoFix](https://user-images.githubusercontent.com/56806907/226222340-c3a0b335-a6b8-41d6-9ecf-203ba700eeb0.png) -->
+![UseCase Diagram - AutoFix](https://user-images.githubusercontent.com/65399666/230796623-34d5a452-8022-4306-82cb-b03d24997218.png)
