@@ -24,8 +24,7 @@ Também como ilustrado acima, os conceitos de multiplicidade entre as entidades 
 
 ## Tecnologias Utilizadas
 
-MySQL Workbench
-Draw.io
+MySQL Workbench / Draw.io
 
 ## Hospedagem
 
