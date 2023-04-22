@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "B+CPcT6j5lkZxXlhpoWKjyvWBXD99+Vnab51uoLorgg=",
+  "Source": "AutoFix",
+  "BasePath": "_content/AutoFix",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutoFix\\wwwroot",
+      "Source": "AutoFix",
+      "ContentRoot": "C:\\Workspace\\AutoFix\\wwwroot\\",
+      "BasePath": "_content/AutoFix",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
