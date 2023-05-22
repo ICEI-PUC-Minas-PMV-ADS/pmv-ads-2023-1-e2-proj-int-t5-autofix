@@ -8,7 +8,7 @@
 |RF-004| O sistema deve permitir prestador de serviços cadastrar informações da empresa (horário de funcionamento, endereço, telefone, e-mail, pagamentos aceitos...)	 | Register.js |
 |RF-005| O usuário deve ser permitido visualizar a localização da Oficina ou Mecânico mais próximo | OficinaView.js |
 
-<a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-autofix/files/11533377/Manual.de.Identidade.Visual-1.pdf" target="_blank">Abrir PDF do Manual de Identidade Visual</a>
+<a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-autofix/files/11533377/Manual.de.Identidade.Visual-1.pdf" target="_blank">Baixar PDF do Manual de Identidade Visual</a>
 
 # Instruções de acesso
 
