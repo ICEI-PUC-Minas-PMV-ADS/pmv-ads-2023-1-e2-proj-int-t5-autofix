@@ -8,6 +8,8 @@
 |RF-004| O sistema deve permitir prestador de serviços cadastrar informações da empresa (horário de funcionamento, endereço, telefone, e-mail, pagamentos aceitos...)	 | Register.js |
 |RF-005| O usuário deve ser permitido visualizar a localização da Oficina ou Mecânico mais próximo | OficinaView.js |
 
+[Manual de Identidade Visual-1.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-autofix/files/11533377/Manual.de.Identidade.Visual-1.pdf)
+
 # Instruções de acesso
 
 Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
