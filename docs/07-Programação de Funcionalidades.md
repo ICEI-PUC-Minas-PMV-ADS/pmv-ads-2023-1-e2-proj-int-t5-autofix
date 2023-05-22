@@ -2,9 +2,11 @@
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário se cadastre no sistema | Register.js | 
-|RF-002| Permitir que o usuário logue no sistema | Login.js |
-|RF-003| Permitir que o usuário visualize as oficinas mais próximas | OficinaView.js |
+|RF-001| O sistema deve ter página de cadastro de usuário | Register.js | 
+|RF-002| O sistema deve ter página de login | Login.js |
+|RF-002| O sistema deve permitir escolher entre usuário ou prestador de serviços no momento do cadastro | Register.js |
+|RF-004| O sistema deve permitir prestador de serviços cadastrar informações da empresa (horário de funcionamento, endereço, telefone, e-mail, pagamentos aceitos...)	 | Register.js |
+|RF-005| O usuário deve ser permitido visualizar a localização da Oficina ou Mecânico mais próximo | OficinaView.js |
 
 # Instruções de acesso
 
