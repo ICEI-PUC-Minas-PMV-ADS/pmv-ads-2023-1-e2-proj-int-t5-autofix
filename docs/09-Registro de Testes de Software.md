@@ -9,6 +9,8 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
 
+# Teste CT-01 - Validação dos Campos do Formulário
+<img width="1728" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-autofix/assets/65399666/a9006403-10f7-4a80-b865-646c90784401">
 
 
 # Teste CT-02 - Teste do API de localização Google:
