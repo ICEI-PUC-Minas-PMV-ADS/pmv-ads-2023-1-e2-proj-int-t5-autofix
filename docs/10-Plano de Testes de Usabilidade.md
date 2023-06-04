@@ -3,15 +3,17 @@
 Os testes de usabilidade a sarem avaliados serão com o método de avaliação por *observação*:
 
   - Quanto tempo e quantas etapas o usuário leva para concluir a tarefa básica?
-  - Quantos erros os usuários cometem na primeira vez em contato com o sistema?
   - Após o teste o que o usuário consegue se lembrar?
 
 *Medições e Avaliações:*
-
-  - Total de erros cometidos no sistema
-  - Quais tipos de erros acontecem com maior frequência
   - Quanto tempo foi necessário para concluir uma tarefa específica(Ex: cadastro no sistema)
 
+# Respostas avaliação por observação: 
+  - Quanto tempo e quantas etapas o usuário leva para concluir a tarefa básica? 3 etapas
+  - Após o teste o que o usuário consegue se lembrar? Cadastro e login
+
+# Respostas Medições e Avaliações: 
+  - Quanto tempo foi necessário para concluir uma tarefa específica(Ex: cadastro no sistema): # 3 minutos
 
 > **Links Úteis**:
 > - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
